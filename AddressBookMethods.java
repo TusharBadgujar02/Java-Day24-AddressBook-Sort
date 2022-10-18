@@ -227,5 +227,4 @@ public class AddressBookMethods {
 			}
 		}
 		contactList.remove(contact);
-	}
-}
+	}}
